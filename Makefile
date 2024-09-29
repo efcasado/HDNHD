@@ -11,7 +11,7 @@ compile:
 	mix compile
 	
 shell:
-	DOCKER_RUN_EXTRA_OPTS="-e SLACK_APP_TOKEN -e SLACK_BOT_TOKEN" iex -S mix
+	source .env && DOCKER_RUN_EXTRA_OPTS="-e SLACK_APP_TOKEN -e SLACK_BOT_TOKEN" iex -S mix
 
 clean:
 	mix clean --all
