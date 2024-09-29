@@ -1,4 +1,6 @@
-# Not a Hotdog (NAH)
+# Not A Hotdog (NAH)
+
+![Not A Hotdog](assets/logo-small.png?raw=true "Not A Hotdog")
 
 > [!NOTE]  
 > This project is inspired by the [Boombox "not hot dog" example](https://hexdocs.pm/boombox/examples.html#not-hot-dog).
@@ -11,6 +13,9 @@ This project is meant to be used for educational purposes only and it would not 
 work from the [Bumblebee](https://github.com/elixir-nx/bumblebee) and
 [Slack Elixir](https://github.com/ryanwinchester/slack_elixir) libraries.
 
+![](assets/the-cast.png?raw=true)
+
+In the [assets/cast](assets/cast) folder you will find a number of images you can use to test the app.
 
 ## Additional Resources
 
