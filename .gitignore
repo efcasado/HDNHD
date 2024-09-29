@@ -1,0 +1,15 @@
+/_build/
+/cover/
+/deps/
+/doc/
+/.fetch
+erl_crash.dump
+*.ez
+hdnhd-*.tar
+/tmp/
+cache.ets
+archives
+elixir
+.env
+packages
+.DS_Store
