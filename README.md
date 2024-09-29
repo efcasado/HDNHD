@@ -3,7 +3,7 @@
 > [!NOTE]  
 > This project is inspired by the [Boombox "not hot dog" example](https://hexdocs.pm/boombox/examples.html#not-hot-dog).
 
-![Not A Hotdog](assets/logo-small.png?raw=true "Not A Hotdog")
+![Not A Hotdog](assets/logo-medium.svg?raw=true "Not A Hotdog")
 
 A toy experiment to show how to build an Slack app and how to use the Bumblebee library to classify images.
 
