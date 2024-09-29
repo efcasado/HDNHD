@@ -14,6 +14,19 @@ work from the [Bumblebee](https://github.com/elixir-nx/bumblebee) and
 [Slack Elixir](https://github.com/ryanwinchester/slack_elixir) libraries.
 
 
+## Usage
+
+```bash
+cat <<EOF > .env
+export SLACK_BOT_TOKEN=<YOUR_SLACK_BOT_TOKEN>
+export SLACK_APP_TOKEN=<YOUR_SLACK_APP_TOKEN>
+EOF
+
+make
+make shell
+```
+
+
 ## Sample Images
 
 In the [assets/cast](assets/cast) folder you will find a number of images you can use to test the app.
